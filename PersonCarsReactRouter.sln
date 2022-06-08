@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonCarsReactRouter.Web", "PersonCarsReactRouter.Web\PersonCarsReactRouter.Web.csproj", "{1813E8D6-D5B8-428A-BDFD-EB77A844B44E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonCarsReactRouter.Data", "PersonCarsReactRouter.Data\PersonCarsReactRouter.Data.csproj", "{F5487B1D-E8FB-4032-948D-930D115F2C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1813E8D6-D5B8-428A-BDFD-EB77A844B44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1813E8D6-D5B8-428A-BDFD-EB77A844B44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1813E8D6-D5B8-428A-BDFD-EB77A844B44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1813E8D6-D5B8-428A-BDFD-EB77A844B44E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5487B1D-E8FB-4032-948D-930D115F2C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5487B1D-E8FB-4032-948D-930D115F2C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5487B1D-E8FB-4032-948D-930D115F2C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5487B1D-E8FB-4032-948D-930D115F2C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485ECD67-122D-4F77-A842-B215B52D9962}
+	EndGlobalSection
+EndGlobal
